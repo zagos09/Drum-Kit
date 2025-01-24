@@ -1,21 +1,9 @@
-Drum Kit 🎵
-An interactive Drum Kit built with HTML, CSS, and JavaScript. Play drum sounds by clicking buttons or pressing keys on your keyboard!
-
-🚀 Live Demo
-Play the Drum Kit here!
+Drum Kit
+A simple, interactive drum kit built with HTML, CSS, and JavaScript. Press the respective keys to play various drum sounds.
 
 Features
-Click or press keys to play drum sounds.
-Responsive design for all devices.
-How to Use
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/zagos09/Drum-Kit.git  
-Open index.html in your browser.
-Enjoy creating rhythms!
-Technologies
-HTML5
-CSS3
-JavaScript
+Interactive drum kit with visual feedback.
+Play drum sounds by pressing specific keys on your keyboard.
+Responsive and easy-to-use interface.
+Demo
+You can try the drum kit by visiting the https://zagos09.github.io/Drum-Kit/ and running the code locally.
